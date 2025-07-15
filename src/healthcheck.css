@@ -1,0 +1,49 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.health-check-container {
+  padding: 20px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.check-button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.status-success {
+  margin-top: 20px;
+  padding: 15px;
+  background-color: #dff0d8;
+  border-radius: 4px;
+  color: #3c763d;
+}
+
+.status-error {
+  margin-top: 20px;
+  padding: 15px;
+  background-color: #f2dede;
+  border-radius: 4px;
+  color: #a94442;
+}
+
+pre {
+  background-color: #f8f9fa;
+  padding: 10px;
+  border-radius: 4px;
+  overflow-x: auto;
+}
+.card {
+   max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}

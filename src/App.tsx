@@ -6,17 +6,9 @@ function App() {
 
   return (
     <>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
+      <h1>Demo - React app deployment using AES Amplify</h1>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+        Followed this tutorial  https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/module-one/
       </p>
     </>
   )
